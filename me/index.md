@@ -5,7 +5,10 @@ title: Who am I?
 
 It really is a question!
 
-```                               _   
-```| | | /_ _   _  _ _      _    '_/  
-```|/|/ / //_/ /_|/ /_' /_//_//_//    
-```                     _/          
+oo____oo____oo_oo_______________________________________________________________________oooo__
+oo____oo____oo_oo_ooo___ooooo_______ooooo__oo_ooo___ooooo_______o___oo__ooooo__oo____o_oo__oo_
+oo____oo____oo_ooo___o_oo___oo_____oo___oo_ooo___o_oo____o______o___oo_oo___oo_oo____o_____oo_
+_oo__oooo__oo__oo____o_oo___oo_____oo___oo_oo______ooooooo______o___oo_oo___oo_oo____o___ooo__
+__oooo__oooo___oo____o_oo___oo_____oo___oo_oo______oo____________ooooo_oo___oo_ooo___o___oo___
+___oo____oo____oo____o__ooooo_______oooo_o_oo_______ooooo______o____oo__ooooo__oo_ooo_________
+________________________________________________________________ooooo____________________oo___
