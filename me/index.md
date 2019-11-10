@@ -5,10 +5,8 @@ title: Who am I?
 
 It really is a question!
 
-oo____oo____oo_oo_______________________________________________________________________oooo__
-oo____oo____oo_oo_ooo___ooooo_______ooooo__oo_ooo___ooooo_______o___oo__ooooo__oo____o_oo__oo_
-oo____oo____oo_ooo___o_oo___oo_____oo___oo_ooo___o_oo____o______o___oo_oo___oo_oo____o_____oo_
-_oo__oooo__oo__oo____o_oo___oo_____oo___oo_oo______ooooooo______o___oo_oo___oo_oo____o___ooo__
-__oooo__oooo___oo____o_oo___oo_____oo___oo_oo______oo____________ooooo_oo___oo_ooo___o___oo___
-___oo____oo____oo____o__ooooo_______oooo_o_oo_______ooooo______o____oo__ooooo__oo_ooo_________
-________________________________________________________________ooooo____________________oo___
+8d8   d88 888  888 88888888   ,8b.       ,dbPPPp   ,d8PPPP   888   88 88888888 888  888 ?
+888,o.d88 88888888 888  888   88'8o      d88ooP'   d88ooo    888ooo88 888  888 888  888  
+888P`Y8b8 88P  888 888  888   88PPY8.  ,88' P'   ,88'              88 888  888 888  888  
+88P   YP8 88P  888 888oo888   8b   `Y' 88  do    88bdPPP     PPPPPP8P 888oo888 888PP888  
+                                                                                          
