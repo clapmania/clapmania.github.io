@@ -1,7 +1,7 @@
 ---
 layout: default
-title: "Lorem Ipsum"
-tags: tag1
+title: "Rib Factory"
+tags: Nijmegen
 ---
 
 ## Lorem Ipsum
