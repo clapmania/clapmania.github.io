@@ -3,5 +3,15 @@ layout: list
 title: Rolling List
 ---
 
-**Things I'd like to own...**  
-1. Dij Drone
+**So many stuffs, I don't even know where to start!**  
+
+1. 
+2. 
+3. 
+4. 
+5. 
+6. 
+...
+...
+...
+999. 
