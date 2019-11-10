@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Read Me or Not"
-tags: post(s)
+tags: posts
 ---
 
 ## Read Me or Not
