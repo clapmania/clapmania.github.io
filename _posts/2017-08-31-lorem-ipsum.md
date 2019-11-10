@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Lorem Ipsum"
-tags: Fantastic Ribs and Where to Find Them tag2 tag3 tag4
+tags: Rib tag2 tag3 tag4
 ---
 
 ## Lorem Ipsum
