@@ -1,6 +1,6 @@
 ---
 layout: list
-title: Rolling list
+title: Rolling List
 ---
 
 **Things I'd like to own...**  
