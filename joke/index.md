@@ -3,5 +3,5 @@ layout: list
 title: Pay Me
 ---
 
-Ops, redirection!
+Ops, redirection fails!
 
